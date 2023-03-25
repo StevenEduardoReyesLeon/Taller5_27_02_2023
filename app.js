@@ -1,4 +1,4 @@
 
 import main from './js/main.js';
 
-main.click();
+main.setValue();
